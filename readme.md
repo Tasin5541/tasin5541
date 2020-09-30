@@ -1,1 +1,1 @@
-[![Tasin's github stats](https://github-readme-stats.vercel.app/api?username=Tasin5541)](https://github.com/anuraghazra/github-readme-stats)
+[![Tasin's github stats](https://github-readme-stats.tasin5541.vercel.app/api?username=Tasin5541)](https://github.com/anuraghazra/github-readme-stats)
