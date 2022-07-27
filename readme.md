@@ -4,5 +4,5 @@
 
 <details>
 <summary>📈 My Most Used Languages</summary>
-<p align="center"> <img src="https://github-readme-stats.tasin5541.vercel.app/api/top-langs/?username=Tasin5541" alt="tasin5541" />
+<p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasin5541&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
