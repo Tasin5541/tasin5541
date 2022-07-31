@@ -3,11 +3,14 @@
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/miftaul-mannan-tasin-566543107/)
 [![YouTube](icons/youtube.png)](https://www.youtube.com/channel/UClvrUclYSGX_MZPOF6ySG6A)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/mm_tasin/)
+
+<br />
+
 ![](https://visitor-badge.glitch.me/badge?page_id=tasin5541.tasin5541)
 
 <br />
 
-hi, I'm Miftaul Mannan, a passionate full stack web developer from Bangladesh. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, I'm [Miftaul Mannan](https://tasin5541.github.io/), a passionate full stack web developer from Bangladesh. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 <br />
 
