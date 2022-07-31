@@ -1,14 +1,8 @@
 ### hey there
 
-<a href="https://www.linkedin.com/in/miftaul-mannan-tasin-566543107/">
-  <img align="left" alt="Miftaul's LinkedIN" width="22px" src="icons/linkedin.png" />
-</a>
-<a href="https://www.youtube.com/channel/UClvrUclYSGX_MZPOF6ySG6A">
-  <img align="left" alt="Miftaul's Instagram" width="22px" src="icons/youtube.png" />
-</a>
-<a href="https://www.instagram.com/mm_tasin/">
-  <img align="left" alt="Miftaul's Instagram" width="22px" src="icons/instagram.png" />
-</a>
+[![LinkedIn](icons/youtube.png)](https://www.linkedin.com/in/miftaul-mannan-tasin-566543107/)
+[![YouTube](icons/youtube.png)](https://www.youtube.com/channel/UClvrUclYSGX_MZPOF6ySG6A)
+[![Instagram](icons/youtube.png)](https://www.instagram.com/mm_tasin/)
 ![](https://visitor-badge.glitch.me/badge?page_id=tasin5541.tasin5541)
 
 <br />
@@ -19,20 +13,20 @@ hi, I'm Miftaul Mannan, a passionate full stack web developer from Bangladesh. m
 
 **languages and tools:**
 
-<code><img height="20" src="icons/typescript.png"></code>
-<code><img height="20" src="icons/javascript.png"></code>
-<code><img height="20" src="icons/cpp.png"></code>
-<code><img height="20" src="icons/react.png"></code>
-<code><img height="20" src="icons/dotnet.png"></code>
-<code><img height="20" src="icons/nodejs.png"></code>
-<code><img height="20" src="icons/sqlserver.png"></code>
-<code><img height="20" src="icons/mysql.png"></code>
-<code><img height="20" src="icons/firebase.png"></code>
-<code><img height="20" src="icons/git.png"></code>
-<code><img height="20" src="icons/github.png"></code>
-<code><img height="20" src="icons/docker.png"></code>
-<code><img height="20" src="icons/azure.png"></code>
-<code><img height="20" src="icons/vscode.png"></code>
+<img height="20" src="icons/typescript.png">
+<img height="20" src="icons/javascript.png">
+<img height="20" src="icons/cpp.png">
+<img height="20" src="icons/react.png">
+<img height="20" src="icons/dotnet.png">
+<img height="20" src="icons/nodejs.png">
+<img height="20" src="icons/sqlserver.png">
+<img height="20" src="icons/mysql.png">
+<img height="20" src="icons/firebase.png">
+<img height="20" src="icons/git.png">
+<img height="20" src="icons/github.png">
+<img height="20" src="icons/docker.png">
+<img height="20" src="icons/azure.png">
+<img height="20" src="icons/vscode.png">
 
 <br />
 
