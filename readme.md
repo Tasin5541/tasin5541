@@ -1,8 +1,8 @@
 ### hey there
 
-[![LinkedIn](icons/youtube.png)](https://www.linkedin.com/in/miftaul-mannan-tasin-566543107/)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/miftaul-mannan-tasin-566543107/)
 [![YouTube](icons/youtube.png)](https://www.youtube.com/channel/UClvrUclYSGX_MZPOF6ySG6A)
-[![Instagram](icons/youtube.png)](https://www.instagram.com/mm_tasin/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/mm_tasin/)
 ![](https://visitor-badge.glitch.me/badge?page_id=tasin5541.tasin5541)
 
 <br />
@@ -13,20 +13,20 @@ hi, I'm Miftaul Mannan, a passionate full stack web developer from Bangladesh. m
 
 **languages and tools:**
 
-<img height="20" src="icons/typescript.png">
-<img height="20" src="icons/javascript.png">
-<img height="20" src="icons/cpp.png">
-<img height="20" src="icons/react.png">
-<img height="20" src="icons/dotnet.png">
-<img height="20" src="icons/nodejs.png">
-<img height="20" src="icons/sqlserver.png">
-<img height="20" src="icons/mysql.png">
-<img height="20" src="icons/firebase.png">
-<img height="20" src="icons/git.png">
-<img height="20" src="icons/github.png">
-<img height="20" src="icons/docker.png">
-<img height="20" src="icons/azure.png">
-<img height="20" src="icons/vscode.png">
+<a href=""><img height="20" src="icons/typescript.png"></a>
+<a href=""><img height="20" src="icons/javascript.png"></a>
+<a href=""><img height="20" src="icons/cpp.png"></a>
+<a href=""><img height="20" src="icons/react.png"></a>
+<a href=""><img height="20" src="icons/dotnet.png"></a>
+<a href=""><img height="20" src="icons/nodejs.png"></a>
+<a href=""><img height="20" src="icons/sqlserver.png"></a>
+<a href=""><img height="20" src="icons/mysql.png"></a>
+<a href=""><img height="20" src="icons/firebase.png"></a>
+<a href=""><img height="20" src="icons/git.png"></a>
+<a href=""><img height="20" src="icons/github.png"></a>
+<a href=""><img height="20" src="icons/docker.png"></a>
+<a href=""><img height="20" src="icons/azure.png"></a>
+<a href=""><img height="20" src="icons/vscode.png"></a>
 
 <br />
 
