@@ -15,7 +15,7 @@ hi, I'm Miftaul Mannan, a passionate full stack web developer from Bangladesh. m
 
 <a href=""><img height="20" src="icons/typescript.png"></a>
 <a href=""><img height="20" src="icons/javascript.png"></a>
-<a href=""><img height="20" src="icons/cpp.png"></a>
+<a href=""><img height="20" src="icons/csharp.png"></a>
 <a href=""><img height="20" src="icons/react.png"></a>
 <a href=""><img height="20" src="icons/dotnet.png"></a>
 <a href=""><img height="20" src="icons/nodejs.png"></a>
@@ -23,9 +23,8 @@ hi, I'm Miftaul Mannan, a passionate full stack web developer from Bangladesh. m
 <a href=""><img height="20" src="icons/mysql.png"></a>
 <a href=""><img height="20" src="icons/firebase.png"></a>
 <a href=""><img height="20" src="icons/git.png"></a>
-<a href=""><img height="20" src="icons/github.png"></a>
 <a href=""><img height="20" src="icons/docker.png"></a>
-<a href=""><img height="20" src="icons/azure.png"></a>
+<a href=""><img height="20" src="icons/azure.svg"></a>
 <a href=""><img height="20" src="icons/vscode.png"></a>
 
 <br />
