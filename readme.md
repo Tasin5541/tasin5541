@@ -10,7 +10,7 @@
 
 <br />
 
-hi, I'm [Miftaul Mannan](https://tasin5541.github.io/), a passionate full stack web developer from Bangladesh. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, I'm [Miftaul Mannan](https://tasin5541.github.io/), a full stack developer with 2+ years of working remotely from Bangladesh. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 <br />
 
