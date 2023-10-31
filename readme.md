@@ -45,15 +45,15 @@ Hi, I'm [Miftaul Mannan](https://tasin5541.github.io/), a Full Stack Developer w
 
 I'm always open to exciting projects, collaboration, and remote opportunities. Let's build the digital future together! 💻🚀
 
-<br />
-
-### 📈 Stats
+📈 Stats:
 
 ![tasin5541's GitHub Stats](https://github-readme-stats.tasin5541.vercel.app/api?username=Tasin5541&theme=darcula&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
 
 ![tasin5541's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasin5541&theme=darcula&show_icons=true&hide_border=true&layout=compact&exclude_repo=Detection-of-Cricketing-Activities-using-Deep-Learning,Face_Recognizer&hide=php,jupyter%20notebook)
 
-### Where to find me
+🌟 Let's Connect:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasin5541/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UClvrUclYSGX_MZPOF6ySG6A)
+[![Email](https://img.shields.io/badge/Email-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tasinmiftaulmannan@gmail.com)
+
