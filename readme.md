@@ -30,10 +30,10 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTasin5541&count_bg=%23518AD1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTasin5541&count_bg=%23518AD1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
 
-Hi, I'm [Miftaul Mannan](https://tasin5541.github.io/), a Full Stack Developer with 3+ years of experience working remotely from Bangladesh. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. **I'm open to work and employment opportunities**.
+Hi, I'm [Miftaul Mannan](https://tasin5541.github.io/), a Full Stack Developer with 3+ years of experience working with North American companies remotely from Bangladesh. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. **I'm open to work and employment opportunities**.
 
 🔧 What I Do:
 - 💻 Front-end wizardry with HTML, CSS, JavaScript (React) to create stunning user interfaces.
