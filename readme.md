@@ -49,6 +49,12 @@ Hi, I'm [Miftaul Mannan](https://tasin5541.github.io/), a Full Stack Developer w
 - 💬 Strong communication skills. I'm an active participant in remote meetings.
 - 🧩 Problem-solving is my passion, and I love a good coding challenge.
 
+🖥️ Some of My Projects:
+- 💭 NextJs-Messenger-Clone - [Live Demo](https://nextjs-messenger-clone-tasin5541.vercel.app/) | [GitHub](https://github.com/Tasin5541/NextJs-Messenger-Clone)
+- 📨 NextJs-Reddit-Clone - [Live Demo](https://next-js-reddit-clone-tasin5541.vercel.app/) | [GitHub](https://github.com/Tasin5541/NextJs-Reddit-Clone)
+- ♾️ react-infinite-observer - [Live Demo](https://tasin5541.github.io/react-infinite-observer/) | [GitHub](https://github.com/Tasin5541/react-infinite-observer)
+- 💼 Portfolio-Template - [Live Demo](https://tasin5541.github.io/) | [GitHub](https://github.com/Tasin5541/portfolio)
+
 I'm always open to exciting projects, collaboration, and remote opportunities. Let's build the digital future together! 💻🚀
 
 📈 Stats:
