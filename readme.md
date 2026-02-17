@@ -1,10 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Miftaul Mannan
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasin5541/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UClvrUclYSGX_MZPOF6ySG6A)
 [![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasinmiftaulmannan@gmail.com)
-
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -29,37 +27,33 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+---
 
-<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTasin5541&count_bg=%23518AD1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)-->
+I am a **Full Stack Developer** with over **5 years of experience** specializing in building scalable web applications for North American companies. I bridge the gap between complex back-end logic and intuitive, high-performance user interfaces.
 
+### 🛠 What I Do:
+* **Full-Stack Development:** Building end-to-end solutions using **React/Next.js** and **.NET Core/Node.js**.
+* **Cloud Architecture:** Designing and deploying secure, scalable applications on **Azure**.
+* **Database Management:** Expert in both **SQL Server** and **NoSQL (MongoDB)** environments.
+* **DevOps & Security:** Streamlining deployments with **CI/CD** pipelines while ensuring data encryption and protection.
 
-Hi, I'm [Miftaul Mannan](https://tasin5541.github.io/), a Full Stack Developer with over 5 years of experience working with North American companies remotely from Bangladesh. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+### 🚀 Why I’m a Great Remote Partner:
+* **Timezone Mastery:** 5+ years of experience collaborating seamlessly with teams in **EST/PST**.
+* **Product-Minded:** I focus on solving business problems and user needs, not just writing code.
+* **Clear Communication:** I advocate for transparency and active participation in Agile/Scrum environments.
+* **High Standards:** I prioritize clean architecture, maintainability, and thorough documentation.
 
-🔧 What I Do:
-- 💻 Front-end wizardry with React to create stunning user interfaces.
-- 🛠️ Back-end sorcery with .NET, Node.js, and databases (SQL/NoSQL) for robust server-side solutions.
-- ☁️ Cloud enthusiast, adept at deploying applications on Azure.
-- 🔐 Security-conscious, ensuring data protection and encryption.
-- 📈 Continuous Integration/Continuous Deployment (CI/CD) aficionado.
+### 🖥️ Featured Projects:
+* 💭 **[NextJs-Messenger-Clone](https://github.com/Tasin5541/NextJs-Messenger-Clone)** - A real-time chat app using WebSockets. | [Live Demo](https://nextjs-messenger-clone-tasin5541.vercel.app/)
+* 📨 **[NextJs-Reddit-Clone](https://github.com/Tasin5541/NextJs-Reddit-Clone)** - A full-stack replica with complex state management. | [Live Demo](https://next-js-reddit-clone-tasin5541.vercel.app/)
+* ♾️ **[react-infinite-observer](https://github.com/Tasin5541/react-infinite-observer)** - A lightweight library for high-performance infinite scrolling. | [Live Demo](https://tasin5541.github.io/react-infinite-observer/)
+* 💼 **[Portfolio-Template](https://github.com/Tasin5541/portfolio)** - A clean, professional showcase for developers. | [Live Demo](https://tasin5541.github.io/)
 
-💡 What Sets Me Apart:
-- 🚀 Remote work aficionado. I believe in the power of distributed teams.
-- 🌍 A global mindset, collaborating with talent from around the world.
-- 🚧 Agile advocate, adapting quickly to changing requirements.
-- 💬 Strong communication skills. I'm an active participant in remote meetings.
-- 🧩 Problem-solving is my passion, and I love a good coding challenge.
+---
 
-🖥️ Some of My Projects:
-- 💭 NextJs-Messenger-Clone - [Live Demo](https://nextjs-messenger-clone-tasin5541.vercel.app/) | [GitHub](https://github.com/Tasin5541/NextJs-Messenger-Clone)
-- 📨 NextJs-Reddit-Clone - [Live Demo](https://next-js-reddit-clone-tasin5541.vercel.app/) | [GitHub](https://github.com/Tasin5541/NextJs-Reddit-Clone)
-- ♾️ react-infinite-observer (Library) - [Live Demo](https://tasin5541.github.io/react-infinite-observer/) | [GitHub](https://github.com/Tasin5541/react-infinite-observer)
-- 💼 Portfolio-Template - [Live Demo](https://tasin5541.github.io/) | [GitHub](https://github.com/Tasin5541/portfolio)
-
-I'm always open to exciting projects, collaboration, and remote opportunities. Let's build the digital future together! 💻🚀
-
-📈 Stats:
-
-<!--![tasin5541's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tasin5541&theme=darcula&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)-->
-
+### 📈 GitHub Stats:
 ![tasin5541's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasin5541&theme=darcula&show_icons=true&hide_border=true&layout=compact&exclude_repo=Detection-of-Cricketing-Activities-using-Deep-Learning,Face_Recognizer&hide=php,jupyter%20notebook)
 
+---
+
+I’m always open to exciting projects, collaboration, and remote opportunities. **Let’s build something great together!**
